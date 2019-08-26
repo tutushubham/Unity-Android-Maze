@@ -1,4 +1,5 @@
-Unity-Android-Maze
+#Unity-Android-Maze
+
 A small Maze Game implementation made for android applying swipe controls
 
 ![App Screencap 1](1.jpeg)
