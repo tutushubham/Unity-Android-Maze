@@ -1,8 +1,8 @@
 # Unity-Android-Maze
 ## A small Maze Game implementation made for android applying swipe controls
 
-* [Documentation] (doc/README.md)
-* [Setup] (doc/setup.md)
+[Documentation] (doc/README.md)
+[Setup] (doc/setup.md)
 
 ## Motivation
 There are many app outside, but anywhere you have to start programming. Why it hasn't been a funny little smartphone-app.
